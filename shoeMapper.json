@@ -1,0 +1,24 @@
+{
+  "adam": {
+    "keys": {
+      "h": "heel",
+      "v": "vamp",
+      "q": "quarter",
+      "w": "wing",
+      "t": "topline",
+      "i": "insole",
+      "s": "sole",
+      "m": "monogram"
+    },
+    "heel": {
+      "1" : "black",
+      "2" : "blue",
+      "3" : "green"
+    },
+    "vamp": {
+      "1" : "brown",
+      "2" : "red",
+      "3" : "dark-green"
+    }
+  }
+}
